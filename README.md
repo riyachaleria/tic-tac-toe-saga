@@ -40,6 +40,8 @@ score.txt → Player scores
 history.txt → Match history (latest 100)
 
 history_archive.txt → Backed up old history
+ Note: All .txt files are generated on first run. These are not stored in the GitHub repo and are private to 
+ your machine.
 
 ## 🎮 Game Flow
 
