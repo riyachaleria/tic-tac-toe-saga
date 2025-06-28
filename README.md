@@ -1,6 +1,8 @@
-# Tic Tac Toe Saga 
+# Tic-Tac-Toe Saga 
 
 A fun console-based Tic Tac Toe game in C with the following features:
+
+**Visual Demo:**  
 **[Tic-Tac-Toe Game Readme - visual selection](https://github.com/user-attachments/assets/bbb60efb-fb1c-4198-980d-c45c5078cdfa)**
 **![Tic-Tac-Toe Enhancement_ Menu-Driven Gameplay and AI Implementation - visual selection](https://github.com/user-attachments/assets/0c30478e-512f-412d-9426-87b8e143c323)**
 
@@ -17,7 +19,7 @@ A fun console-based Tic Tac Toe game in C with the following features:
 
 ## How to Compile!
 
-Use GCC:
+Use GCC to compile the code:
 ```bash
 gcc tictactoe.c -o tictactoe
 
@@ -26,7 +28,6 @@ gcc tictactoe.c -o tictactoe
 ### Windows:
 1. Open terminal and navigate to the project folder.
 2. Run the executable:
-tictactoe.exe
 ./tictactoe
 
 Files Included
