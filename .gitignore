@@ -1,0 +1,5 @@
+*.exe
+*.txt
+output/score.txt
+output/history.txt
+output/history_archive.txt
