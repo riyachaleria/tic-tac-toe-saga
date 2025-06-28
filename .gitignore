@@ -3,4 +3,4 @@
 output/score.txt
 output/history.txt
 output/history_archive.txt
-output/*.txt
+
