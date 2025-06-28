@@ -59,6 +59,7 @@ are welcome!
 
 This project is currently not licensed for reuse. Please do not copy, distribute, or modify without explicit 
 permission.
-
+Note: This program auto-generates `score.txt`, `history.txt`, and `history_archive.txt` files on first use. 
+These files are local to your system and are not shared publicly or stored in this repository.
 Author
 RIYA CHALERIA ❤️
