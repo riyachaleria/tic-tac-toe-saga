@@ -32,5 +32,9 @@ history.txt → Match history (latest 100)
 
 history_archive.txt → Backed up old history
 
+##  License
+
+This project is currently not licensed for reuse. Please do not copy, distribute, or modify without explicit permission.
+
 Author
 RIYA CHALERIA ❤️
